@@ -4,3 +4,5 @@ GIT
 LINUX
 Python
 Databases
+
+cloud architecture
